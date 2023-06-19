@@ -1,0 +1,31 @@
+.country-container {
+    border: 3px solid #FFD89C;
+    border-radius: 13px;
+    margin: 25px;
+    width: auto;
+    background-color: #FFF8DE;
+    box-shadow: 10px 10px 10px #fdecd3;
+    transition: 0.3s linear;
+}
+
+.country-container:active {
+    transform: scale(0.9);
+}
+
+.country-container img {
+    border-radius: 10px 10px 0 0;
+}
+
+.country-container {
+    text-align: center;
+}
+
+.country-container button {
+    margin: 20px;
+    text-align: center;
+    padding: 8px 20px;
+    border-radius: 5px;
+    background-color: #116D6E;
+    color: white;
+    border: none;
+}

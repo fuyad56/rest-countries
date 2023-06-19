@@ -1,0 +1,19 @@
+.home-container {
+    background-color: #ffffff;
+}
+
+.home-container h1 {
+    text-align: center;
+    background-color: #A0C49D;
+    margin: 0 0 40px 0;
+    padding: 50px;
+    border-bottom: 5px solid #FFD89C;
+    border-radius:0 0 50px 50px;
+    box-shadow: 10px 10px 10px #fdecd3;
+}
+
+.home-container-props {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
